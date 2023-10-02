@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using tyuiu.cources.programming.interfaces.Sprint2;
+using tyuiu.cources.programming.interfaces.Sprint2; 
 
 namespace Tyuiu.FaizullinDR.Sprint2.Task0.V13.Lib
 {

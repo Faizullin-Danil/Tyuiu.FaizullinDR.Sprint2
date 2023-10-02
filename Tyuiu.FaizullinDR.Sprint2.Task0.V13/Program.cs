@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Tyuiu.FaizullinDR.Sprint2.Task0.V13.Lib;
 
 namespace Tyuiu.FaizullinDR.Sprint2.Task0.V13
-{
+{ 
     class Program
     {
         static void Main(string[] args)
